@@ -1,0 +1,3 @@
+[submodule "planeacion-historia-clinica"]
+	path = planeacion-historia-clinica
+	url = git@github.com:Juferoga/planeacion-historia-clinica.git
